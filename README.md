@@ -1,7 +1,7 @@
 # Data-Cleaning
 This is a quick Prohect I did to show my steps in presenting Database information
 First Step
-  I downloaded a raw database .csv file.(Saved As-https://github.com/JohnnieA0068/Data-Cleaning/blob/main/Raw%20Data%20Table%20for%20Cleaning%20Project.xlsx)
+  I downloaded a raw database .csv file. (Saved As-https://github.com/JohnnieA0068/Data-Cleaning/blob/main/Raw%20Data%20Table%20for%20Cleaning%20Project.xlsx)
 
 Second Step
   I preformed the following to the .csv file in Excel
