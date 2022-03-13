@@ -18,4 +18,4 @@ Second Step
    9)	Delete all Formatting
   
 
-This gave a clean, readable Excel DB that can be transformed into Pivot Tables, Chart, and Graphs
+This gave a clean, readable Excel DB that can be transformed into Pivot Tables, Chart, and Graphs (Saved As- https://github.com/JohnnieA0068/Data-Cleaning-in-Excel/blob/main/Clean%20Data%20Table%20for%20Cleaning%20Project.xlsx)
