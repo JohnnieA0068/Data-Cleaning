@@ -1,4 +1,4 @@
-# Data-Cleaning
+# Data_Cleaning_in_Excel
 This is a quick Project I did to show how I am able to present informtion from a Database
 
 First Step   
